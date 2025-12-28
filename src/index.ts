@@ -18,7 +18,7 @@ let wsPromise: (() => void) | null = null;
 const map = new Map<string, Pending>();
 const server = new McpServer({
     name: 'kibbutz-mcp',
-    version: '1.1.0',
+    version: '1.1.1',
 });
 
 type ToolTextResponse = {

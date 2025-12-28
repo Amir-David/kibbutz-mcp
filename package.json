@@ -1,6 +1,6 @@
 {
     "name": "kibbutz-mcp",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "description": "",
     "main": "build/index.js",
     "scripts": {
@@ -10,6 +10,14 @@
     "keywords": [],
     "author": "Amir David",
     "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Amir-David/kibbutz-mcp.git"
+    },
+    "homepage": "https://github.com/Amir-David/kibbutz-mcp#readme",
+    "bugs": {
+        "url": "https://github.com/Amir-David/kibbutz-mcp/issues"
+    },
     "type": "module",
     "bin": {
         "kibbutz-mcp": "build/index.js"

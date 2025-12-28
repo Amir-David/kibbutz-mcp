@@ -5,7 +5,7 @@ Make browser management simple - on your own or with your LLM MCP client
 
 [![NPM Version](https://img.shields.io/npm/v/kibbutz-mcp?style=flat&logo=npm)](https://www.npmjs.com/package/kibbutz-mcp)
 
-![Kibbutz MCP](media/kibbutzmcp.gif)
+![Kibbutz MCP](https://raw.githubusercontent.com/Amir-David/kibbutz-mcp/main/media/kibbutzmcp.gif)
 
 [![YouTube Video Views](https://img.shields.io/youtube/views/L4xORTRshzk?style=flat&logo=youtube)](https://youtu.be/L4xORTRshzk)
 
